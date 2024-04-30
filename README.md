@@ -22,4 +22,6 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+The extraction was initially slow when I ran it for the CNS data, but that makes sense because it was going through 10 articles, while this was just the text from one article. It did the extraction for my Chartmetric article in just a second and its results were pretty accurate. When I checked the people mentioned in the article list to the article, it did list most of the artists mentioned in the article that did perform at 2024's Coachella, along with KAYTRANDA and Aminé who did well in charting after 2023's Coachella, the couple artists they forgot in the list was the K-Pop artists mentioned near the end of the article. It did get the place correct as this just surrounds Coachella and even indicated where in California Coachella is located. The organizations mentioned make senseas to the article describing where these artists are gaining traction.
+
+This was a interesting assignment and this type of assignment for an AI would be super helpful in a case such as going through a court document or other long PDF where you need to see who, what and where things happened, espeically if you are trying to see if certian people or places are mentioned. This would also be helpful in the case of trying to find names of credible sources for an article if you are searching through a journal article other archive.
